@@ -64,7 +64,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 The sorting algorithm implementations and Big O analyses in this repository are based on various educational resources, books, and online references, which are credited within the respective source files.
 
-##Partners
+## Partners
 1. Alex Mirichu @gichbuoy
 2. Wellington Mwadali @Mwadali
 
