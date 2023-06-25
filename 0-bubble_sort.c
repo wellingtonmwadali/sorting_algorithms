@@ -20,7 +20,7 @@ return;
 
 for (k = 0; k < size - 1; k++)
 {
-for (h = 0; h < size - i - 1; h++)
+for (h = 0; h < size - h - 1; h++)
 {
 if (array[h] > array[h + 1])
 {
