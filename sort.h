@@ -6,11 +6,13 @@
 
 #define UP 0
 #define DOWN 1
+
 /**
- * enum bool - enumeration boolen to return
- * true or false values
- * False: 0
- * True: 1(automatically assumes 1)
+ * enum bool - enumeration boolean
+ *
+ * @false: boolean statement
+ * @true: boolean statement
+ * @next: Pointer to the next element of the list
  */
 typedef enum bool
 {
@@ -25,7 +27,6 @@ typedef enum bool
  * @prev: Pointer to the previous element of the list
  * @next: Pointer to the next element of the list
  */
-
 typedef struct listint_s
 {
 	int n;
