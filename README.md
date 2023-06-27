@@ -37,7 +37,7 @@ To explore the sorting algorithms and Big O notation covered in this repository,
 1. Clone the repository:
 
    ```
-   $ git clone https://github.com/your_username/0x1B-sorting_algorithms.git
+   $ git clone https://github.com/wellingtonmwadali/0x1B-sorting_algorithms.git
    ```
 
 2. Navigate to the repository's directory:
